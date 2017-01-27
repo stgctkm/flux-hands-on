@@ -53,6 +53,9 @@ $ sudo nginx -s stop
 $ sudo nginx -s reload
 ```
 
+### URL
+http://localhost/app/flux.html
+
 ## next
 ### Redux
 http://qiita.com/kiita312/items/49a1f03445b19cf407b7
